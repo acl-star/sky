@@ -1,2 +1,2 @@
 # sky
-a platform for astronomy big data processing
+a platform for astronomical big data processing
